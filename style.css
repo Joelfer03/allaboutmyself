@@ -1,0 +1,33 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    scroll-behavior: smooth;
+    color: aliceblue;
+}
+
+body {
+    font-size: 18px;
+    background-image: url(p9mUO.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+header {
+    margin-left: 5%;
+    padding: 2%;
+}
+
+h1 {
+    text-align: center;
+    font-size: 48px;
+    font-style: italic;
+}
+
+.about {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    font-size: 120%;
+}
